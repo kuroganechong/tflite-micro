@@ -1,0 +1,21 @@
+gen/cortex_m_generic_cortex-m4+fp_debug/obj/core/tensorflow/lite/micro/cortex_m_generic/micro_time.o: \
+ tensorflow/lite/micro/cortex_m_generic/micro_time.cc \
+ tensorflow/lite/micro/micro_time.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/13.2.1/cstdint \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/13.2.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/c++config.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/13.2.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/os_defines.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/13.2.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/cpu_defines.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/lib/gcc/arm-none-eabi/13.2.1/include/stdint.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/stdint.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/machine/_default_types.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/features.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/_newlib_version.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/_intsup.h \
+ /home/chong/_w/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/_stdint.h \
+ tensorflow/lite/micro/tools/make/downloads/cmsis/Device/ARM/ARMCM4/Include/ARMCM4_FP.h \
+ tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/Core/Include/core_cm4.h \
+ tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/Core/Include/cmsis_version.h \
+ tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/Core/Include/cmsis_compiler.h \
+ tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/Core/Include/cmsis_gcc.h \
+ tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/Core/Include/mpu_armv7.h \
+ tensorflow/lite/micro/tools/make/downloads/cmsis/Device/ARM/ARMCM4/Include/system_ARMCM4.h
